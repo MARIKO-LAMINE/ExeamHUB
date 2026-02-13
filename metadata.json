@@ -1,0 +1,8 @@
+{
+  "name": "Sujethèque UNA",
+  "description": "Banque Numérique de Sujets pour les étudiants de l'Université Nangui Abrogoua (UNA). Accès libre aux examens, TD et rattrapages.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
